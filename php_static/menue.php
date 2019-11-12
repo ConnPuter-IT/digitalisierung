@@ -21,7 +21,7 @@
                 <li <?php if($landing=="start"){
                     print('class="active"');
                     } ?>>
-                <a href="start.php?id=start">Homepage</a></li>
+                <a href="../sites/start.php?id=start">Homepage</a></li>
 
                 <li <?php if($landing=="dia"){
                     print('class="active"');
